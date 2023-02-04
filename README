@@ -1,0 +1,23 @@
+# README
+
+
+
+# Structure of Code and Dataset
+
+## Images/ 
+ - The directory that consists of the dataset used for our project
+## annotations.csv
+ - The OpenFace annotations of the initial dataset used for SVM, GMM, and kNN
+## openface_annotations.csv
+- The OpenFace annotations of the revised dataset used for K-Means Clustering
+## gmm_svm.ipynb
+- Implementation of the Gaussian mixture models and support vector machines classifiers 
+## K-NN.ipynb
+- Implementation of the K-Nearest Neighbours classifiers 
+## K-Means Clustering and Visualization.ipynb
+- Implementation and Visualization of the K-Means Clustering 
+## OpenFace.ipynb
+- Downloading and using the OpenFace software to annotate our dataset in the Images directory
+
+# Self-Evaluation
+We have managed to complete everything that we have mentioned in our proposal. Additionally, we were able to do more than we proposed in terms of adding more classifying methods to our project such as SVM and GMM. We were also able to expand our dataset from 200 images to 5176 images in an attempt to make our results more accurate. Due to unknown reasons, one of our initial group members dropped the course after we determined the scope of our project and had already split duties among ourselves. Due to this, we had to improvise and make sure we collectively had his part completed. Even with this occurrence we were able to complete the requirements in our proposal for our project and went the extra mile to gather more data samples and explore using other models in order to achieve a more accurate result. 
